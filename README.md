@@ -1,0 +1,3 @@
+- Hi, I’m Kaique Bastos
+- I’m interested in process automation
+- Beginner programmer
